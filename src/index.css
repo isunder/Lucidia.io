@@ -66,4 +66,9 @@
   clip-path: polygon(0 0, 100% 100%, 100% 0);
 }
 
+.padding_bottom{
+  padding-bottom: 120px !important;
+  padding-top: 120px !important;
+}
+
  
